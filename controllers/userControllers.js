@@ -70,4 +70,8 @@ const fetchPracticeAreas = async(req,res)=>{
     }
 }
 
+
+
+
+
 module.exports = {AddAdvisor,FetchAdvisors,AddService,fetchServices,AddPracticeArea,fetchPracticeAreas}
